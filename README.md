@@ -318,6 +318,8 @@ una idea clara del proyecto realizado sin tener que esperar hasta el final de la
 Como material de referencia, se recomienda la lectura de los libros [PresentationZen](https://amzn.eu/d/2wav8R1), de Garr
 Reynolds y/o [Slide:ology](https://amzn.eu/d/fqfC9r4), de Nancy Duarte (disponible online en la [biblioteca de la US](https://fama.us.es/)).
 
+Suele dar muy buenos resultados realizar una primera versión de la presentación antes de finalizar la documentación. El esfuerzo de síntesis ayuda a destacar lo esencial frente a lo accesorio. Además, las imágenes e ilustraciones que se suelen crear para la presentación mejoran considerablemente la entendibilidad del texto.  
+
 ## Lista de comprobación (Checklist)
 
 - [ ] La redacción del documento es formal y cuidada.
